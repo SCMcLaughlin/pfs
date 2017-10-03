@@ -49,4 +49,4 @@ clean:
 	$(E) "Cleaned build directory"
 
 install:
-	cp pfs /usr/bin/
+	cp pfs /usr/local/bin/
